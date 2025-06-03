@@ -1,0 +1,9 @@
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "D:/mining app/missionx/assets/icons/missonx.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "D:/mining app/missionx/assets/icons/missonx.png"
+  adaptive_icon_monochrome: "assets/icons/missonx.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21 

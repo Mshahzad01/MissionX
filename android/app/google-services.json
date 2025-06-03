@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709035031899",
+    "project_id": "missionx-72ae1",
+    "storage_bucket": "missionx-72ae1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709035031899:android:3b6cfa3ba13ba277356e7e",
+        "android_client_info": {
+          "package_name": "com.example.missionx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3HydtHlhMtjsQ8avSSdcVyd8h-vav0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
